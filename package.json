@@ -1,0 +1,25 @@
+{
+  "name": "nextep",
+  "version": "1.0.0",
+  "description": "A Minimalistic General Purpose State Machine Implementation",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpjayasekara/node-nextep.git"
+  },
+  "keywords": [
+    "state",
+    "machine",
+    "dfa",
+    "states"
+  ],
+  "author": "Deepal Jayasekara <dpjayasekara@gmail.com> (https://jsblog.insiderattack.net)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpjayasekara/node-nextep/issues"
+  },
+  "homepage": "https://github.com/dpjayasekara/node-nextep#readme"
+}
